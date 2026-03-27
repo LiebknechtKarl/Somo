@@ -759,9 +759,9 @@ https://www.codenong.com/cs109199281/
 
 ### 配置glm3
 
-
+```
 pip install --upgrade fastapi -i https://pypi.tuna.tsinghua.edu.cn/simple
-
+```
 
 
 
